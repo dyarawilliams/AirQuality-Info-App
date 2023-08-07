@@ -24,7 +24,7 @@
     <a href="https://github.com/dyarawilliams/AirQuality-Info-App"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://air-quality-info-app.vercel.app/">View Demo</a>
+    <a href="https://air-quality-info-app.vercel.app" />View Demo</a>
     ·
     <a href="https://github.com/dyarawilliams/AirQuality-Info-App/issues">Report Bug</a>
     ·
@@ -206,7 +206,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [product-screenshot]: images/screenshot.png
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
+[React-url]: https://react.dev/
 
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
