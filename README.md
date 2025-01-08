@@ -101,7 +101,7 @@ Things you need to use the software and how to install them.
 1. Get a free API Key at [API Token Request Form](https://aqicn.org/data-platform/token/)
 2. Clone the repo
    ```sh
-   git clone https://github.com/dyarawilliams/AirQuality-Info-App.git
+   git clone https://github.com/your-github-username/AirQuality-Info-App.git
    ```
 3. Install NPM packages
    ```sh
@@ -180,9 +180,8 @@ Project Link: [https://github.com/dyarawilliams/AirQuality-Info-App](https://git
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Mayanwolfe Twitch Video](https://www.twitch.tv/videos/1843783687)
+* [Mayanwolfe Tutorial Video](https://youtu.be/fMCIKVoJ1tc?si=Sd4klyPLjkFpLe_u))
 * [Choose an Open Source License](https://choosealicense.com)
-
 * [Img Shields](https://shields.io)
 
 
