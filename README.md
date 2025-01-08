@@ -188,7 +188,7 @@ Project Link: [https://github.com/dyarawilliams/AirQuality-Info-App](https://git
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Mayanwolfe Tutorial Video](https://youtu.be/fMCIKVoJ1tc?si=Sd4klyPLjkFpLe_u))
+* [Mayanwolfe Tutorial Video](https://youtu.be/fMCIKVoJ1tc?si=Sd4klyPLjkFpLe_u)
 * [Choose an Open Source License](https://choosealicense.com)
 * [Img Shields](https://shields.io)
 
