@@ -99,7 +99,7 @@ Things you need to use the software and how to install them.
 ### Installation
 
 1. Get a free API Key at [API Token Request Form](https://aqicn.org/data-platform/token/)
-2. Clone the repo
+2. Fork & Clone the repo
    ```sh
    git clone https://github.com/your-github-username/AirQuality-Info-App.git
    ```
@@ -110,6 +110,14 @@ Things you need to use the software and how to install them.
 4. Create a file named `.env` in the root of your project folder and Enter your API Token using
    ```env
    REACT_APP_AQI_API_TOKEN=
+   ```
+5. Go into the project directory
+   ```sh
+   cd air-quality
+   ```
+6. To run the application, run:
+   ```
+   npm start
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
